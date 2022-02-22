@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Yasmine Dennis",
+      "email": "danamun@email.com",
+      "password": "danamun"
+    },
+    {
+      "id": 2,
+      "username": "bogdan",
+      "email": "bogdan@email.com",
+      "password": "bogdan"
+    },
+    {
+      "id": 3,
+      "username": "Jamie Thomas",
+      "email": "jamie_thomas@gmail.com",
+      "password": "aaa"
+    },
+    {
+      "id": 4,
+      "username": "alex",
+      "email": "alex@alex.com",
+      "password": "Test123!"
+    },
+    {
+      "id": 5,
+      "username": "Ronnie Holder",
+      "email": "ronniehld2@yahoo.com",
+      "password": "Test123!"
+    },
+    {
+      "id": 6,
+      "username": "oana",
+      "email": "oana@oana2.com",
+      "password": "Test123!"
+    },
+    {
+      "id": 7,
+      "username": "adela",
+      "email": "adela@adela.com",
+      "password": "Test123!"
+    },
+    {
+      "id": 8,
+      "username": "Eric Crosby",
+      "email": "crosbyEric@gmail.com",
+      "password": "Test123!"
+    }
+  ]
+}

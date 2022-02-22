@@ -1,0 +1,235 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "username": "Mark Otto",
+      "ccy_pair": "USD/EUR",
+      "rate": "0.86",
+      "action": "sell",
+      "notional": "100",
+      "tenor": "1M",
+      "trans_date": "12/02/2018",
+      "trans_hour": "12:22"
+    },
+    {
+      "id": 2,
+      "username": "John Doe",
+      "ccy_pair": "USD/RON",
+      "rate": "0.86",
+      "action": "buy",
+      "notional": "20000",
+      "tenor": "Spot",
+      "trans_date": "12/02/2018",
+      "trans_hour": "15:28"
+    },
+    {
+      "id": "5e30dfa9-d3a6-4312-90cf-934a7708a99a",
+      "username": "Ion Popescu",
+      "ccy_pair": "EUR/GBP",
+      "rate": "0.23",
+      "action": "sell",
+      "notional": "35000",
+      "tenor": "Spot",
+      "trans_date": "10/12/2021",
+      "trans_hour": "16:33"
+    },
+    {
+      "id": "cd827e3a-6dc5-4c30-bc84-3dc4301e906e",
+      "username": "Alex Alexandrescu",
+      "ccy_pair": "EUR/GBP",
+      "rate": "0.84",
+      "action": "sell",
+      "notional": "5000",
+      "tenor": "1M",
+      "trans_date": "10/01/2022",
+      "trans_hour": "16:34"
+    },
+    {
+      "id": "085c84fd-eb53-483b-9e5c-a1898d5a1c90",
+      "username": "Lauren Nancy",
+      "ccy_pair": "RON/CHF",
+      "rate": "4.77",
+      "action": "buy",
+      "notional": "7500",
+      "tenor": "1M",
+      "trans_date": "10/01/2022",
+      "trans_hour": "16:38"
+    },
+    {
+      "id": "53d594be-337e-4c44-bb36-ed8f19bcf92c",
+      "username": "Yasmine Dennis",
+      "ccy_pair": "RON/CHF",
+      "rate": "0.21",
+      "action": "sell",
+      "notional": "22000",
+      "tenor": "Spot",
+      "trans_date": "10/01/2022",
+      "trans_hour": "16:39"
+    },
+    {
+      "id": "9caa2628-bdd8-4860-9760-6310e958c770",
+      "username": "Jamie Thomas",
+      "ccy_pair": "USD/EUR",
+      "rate": "1.14",
+      "action": "buy",
+      "notional": "7730",
+      "tenor": "Spot",
+      "trans_date": "10/01/2022",
+      "trans_hour": "16:39"
+    },
+    {
+      "id": "552ceefe-adfe-4141-9b0b-481b40c6b54b",
+      "username": "Jamie Thomas",
+      "ccy_pair": "GBP/USD",
+      "rate": "0.74",
+      "action": "buy",
+      "notional": "2000000",
+      "tenor": "Spot",
+      "trans_date": "10/01/2022",
+      "trans_hour": "17:23"
+    },
+    {
+      "id": "0fe3288f-5b13-47d8-a48c-8c2b1f94f83b",
+      "username": "Ronnie Holder",
+      "ccy_pair": "USD/CHF",
+      "rate": "0.91",
+      "action": "sell",
+      "notional": "25400",
+      "tenor": "Spot",
+      "trans_date": "07/01/2022",
+      "trans_hour": "15:22"
+    },
+    {
+      "id": "3789736b-109e-498d-81cb-8a97ac84f756",
+      "username": "Eric Crosby",
+      "ccy_pair": "CHF/EUR",
+      "rate": "0.82",
+      "action": "buy",
+      "notional": "400",
+      "tenor": "3M",
+      "trans_date": "15/01/2022",
+      "trans_hour": "16:06"
+    },
+    {
+      "id": "ef0ede83-c36e-4e1b-bd00-e31d4183c855",
+      "username": "Jim Chandler",
+      "ccy_pair": "USD/EUR",
+      "rate": "0.97",
+      "action": "sell",
+      "notional": "12000",
+      "tenor": "1M",
+      "trans_date": "15/01/2022",
+      "trans_hour": "16:08"
+    },
+    {
+      "id": "f269e724-202c-4fbd-ae15-30b01f5abb7d",
+      "username": "Eric Crosby",
+      "ccy_pair": "EUR/USD",
+      "rate": "1.04",
+      "action": "buy",
+      "notional": "4575",
+      "tenor": "Spot",
+      "trans_date": "15/01/2022",
+      "trans_hour": "16:08"
+    },
+    {
+      "id": "2ef5807b-e558-43a8-ad9f-8646bfb04d06",
+      "username": "Calvin Richards",
+      "ccy_pair": "RON/USD",
+      "rate": "4.84",
+      "action": "buy",
+      "notional": "20000",
+      "tenor": "1M",
+      "trans_date": "15/01/2022",
+      "trans_hour": "16:09"
+    },
+    {
+      "id": "aeda7fb6-4529-43fc-9b3e-ba8696fbd638",
+      "username": "Calvin Richards",
+      "ccy_pair": "GBP/RON",
+      "rate": "1.16",
+      "action": "sell",
+      "notional": "56750",
+      "tenor": "3M",
+      "trans_date": "15/01/2022",
+      "trans_hour": "16:10"
+    },
+    {
+      "id": "77723f57-94ad-41ec-af16-ee7013cec9e0",
+      "username": "adela",
+      "ccy_pair": "EUR/USD",
+      "rate": "0.93",
+      "action": "buy",
+      "notional": "450000",
+      "tenor": "Spot",
+      "trans_date": "15/01/2022",
+      "trans_hour": "16:16"
+    },
+    {
+      "id": "62c89657-057f-4d0a-be98-91d62e57697d",
+      "username": "oana",
+      "ccy_pair": "CHF/USD",
+      "rate": "0.99",
+      "action": "buy",
+      "notional": "9350",
+      "tenor": "1M",
+      "trans_date": "15/01/2022",
+      "trans_hour": "16:18"
+    },
+    {
+      "id": "9baa460a-48de-4dc3-b807-75d247381a63",
+      "username": "Al Malinescu",
+      "ccy_pair": "USD/RON",
+      "rate": "1.10",
+      "action": "buy",
+      "notional": "325",
+      "tenor": "Spot",
+      "trans_date": "15/01/2022",
+      "trans_hour": "16:20"
+    },
+    {
+      "id": "fadc7c65-8f5d-484e-829d-8d1cb4869ab5",
+      "username": "adela",
+      "ccy_pair": "EUR/GBP",
+      "rate": "1.23",
+      "action": "buy",
+      "notional": "5",
+      "tenor": "1M",
+      "trans_date": "18/01/2022",
+      "trans_hour": "10:18"
+    },
+    {
+      "id": "12f0a692-fde6-42d3-ad73-79622f24a40b",
+      "username": "alex",
+      "ccy_pair": "GBP/RON",
+      "rate": "0.76",
+      "action": "buy",
+      "notional": "122222",
+      "tenor": "3M",
+      "trans_date": "17/02/2022",
+      "trans_hour": "22:15"
+    },
+    {
+      "id": "dc525d47-d6ac-48e8-b6c7-02613a26d100",
+      "username": "alex",
+      "ccy_pair": "GBP/RON",
+      "rate": "0.76",
+      "action": "buy",
+      "notional": "122222",
+      "tenor": "3M",
+      "trans_date": "17/02/2022",
+      "trans_hour": "23:12"
+    },
+    {
+      "id": "5dd742c3-3ba8-4886-8026-1e942a7b928b",
+      "username": "alex",
+      "ccy_pair": "GBP/RON",
+      "rate": "5.94",
+      "action": "sell",
+      "notional": "122222",
+      "tenor": "3M",
+      "trans_date": "17/02/2022",
+      "trans_hour": "23:13"
+    }
+  ]
+}

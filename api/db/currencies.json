@@ -1,0 +1,132 @@
+{
+  "currencies_available": ["USD", "EUR", "GBP", "RON", "CHF"],
+  "currency_rates": [
+    {
+      "base_currency": "USD",
+      "quotes": {
+        "EUR": {
+          "sell": 0.88,
+          "buy": 1.14
+        },
+        "GBP": {
+          "sell": 0.74,
+          "buy": 1.35
+        },
+        "RON": {
+          "sell": 4.36,
+          "buy": 0.23
+        },
+        "CHF": {
+          "sell": 0.91,
+          "buy": 1.1
+        }
+      }
+    },
+    {
+      "base_currency": "EUR",
+      "quotes": {
+        "USD": {
+          "sell": 1.14,
+          "buy": 0.88
+        },
+        "GBP": {
+          "sell": 0.84,
+          "buy": 1.19
+        },
+        "RON": {
+          "sell": 4.95,
+          "buy": 0.2
+        },
+        "CHF": {
+          "sell": 1.04,
+          "buy": 0.96
+        }
+      }
+    },
+    {
+      "base_currency": "GBP",
+      "quotes": {
+        "EUR": {
+          "sell": 1.19,
+          "buy": 0.84
+        },
+        "USD": {
+          "sell": 1.35,
+          "buy": 0.74
+        },
+        "RON": {
+          "sell": 5.89,
+          "buy": 0.71
+        },
+        "CHF": {
+          "sell": 1.23,
+          "buy": 0.81
+        }
+      }
+    },
+    {
+      "base_currency": "RON",
+      "quotes": {
+        "EUR": {
+          "sell": 0.2,
+          "buy": 4.95
+        },
+        "GBP": {
+          "sell": 0.17,
+          "buy": 5.89
+        },
+        "USD": {
+          "sell": 0.23,
+          "buy": 4.36
+        },
+        "CHF": {
+          "sell": 0.21,
+          "buy": 4.77
+        }
+      }
+    },
+    {
+      "base_currency": "CHF",
+      "quotes": {
+        "EUR": {
+          "sell": 0.96,
+          "buy": 1.04
+        },
+        "GBP": {
+          "sell": 0.81,
+          "buy": 1.23
+        },
+        "RON": {
+          "sell": 4.77,
+          "buy": 0.21
+        },
+        "USD": {
+          "sell": 1.1,
+          "buy": 0.91
+        }
+      }
+    }
+  ],
+  "currency_pairings": [
+    "USD/EUR",
+    "USD/RON",
+    "USD/GBP",
+    "USD/CHF",
+    "RON/USD",
+    "RON/EUR",
+    "RON/GBP",
+    "RON/CHF",
+    "EUR/USD",
+    "EUR/RON",
+    "EUR/GBP",
+    "EUR/CHF",
+    "CHF/USD",
+    "CHF/EUR",
+    "CHF/RON",
+    "CHF/GBP",
+    "GBP/USD",
+    "GBP/EUR",
+    "GBP/RON",
+    "GBP/CHF"
+  ]
+}
