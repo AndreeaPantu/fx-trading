@@ -1,1 +1,0 @@
-# fx-trading-group3
